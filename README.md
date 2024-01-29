@@ -1,3 +1,7 @@
 # Sentiment_Analysis_Krish_joshi
 <p>Explore the world of sentiment analysis using this Python project repository. Leveraging powerful natural language processing (NLP) techniques, the Sentiment Analysis project enables you to analyze and understand the sentiment behind textual data. With a focus on simplicity and effectiveness, this repository provides a versatile toolkit for sentiment analysis, allowing you to easily integrate it into your projects. Whether you're a beginner looking to dive into NLP or an experienced developer seeking a reliable sentiment analysis solution, this repository offers a valuable resource for extracting insights from text data. Unlock the potential of sentiment analysis in Python and enhance your understanding of textual content with this user-friendly and well-documented project.
 </p>
+<img width="1371" alt="Screenshot 2024-01-29 at 1 24 39 PM" src="https://github.com/Krish18Joshi/Sentiment_Analysis_Krish_joshi/assets/99706585/da960c29-5e36-4e27-b7cd-52627ee812ba">
+<img width="667" alt="Screenshot 2024-01-29 at 1 23 53 PM" src="https://github.com/Krish18Joshi/Sentiment_Analysis_Krish_joshi/assets/99706585/beb0cfd8-ca5c-4f52-a3ed-9ddebd1b6fd7">
+<img width="746" alt="Screenshot 2024-01-29 at 1 24 20 PM" src="https://github.com/Krish18Joshi/Sentiment_Analysis_Krish_joshi/assets/99706585/6c9497d1-cf0f-4dc3-90d6-691923669ce4">
+<img width="719" alt="Screenshot 2024-01-29 at 1 24 30 PM" src="https://github.com/Krish18Joshi/Sentiment_Analysis_Krish_joshi/assets/99706585/f9352fa8-75dd-409f-8300-caec857f142a">
